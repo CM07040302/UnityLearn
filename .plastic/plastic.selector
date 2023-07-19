@@ -1,0 +1,4 @@
+repository "MY boost@wechat_os_qy0-dbb7nvrifn3dtxafbqszc@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
